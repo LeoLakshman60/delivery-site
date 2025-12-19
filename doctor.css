@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(255,85,0);
+    display: flex;
+    justify-content: center;
+    height: 100;
+}
+.red{
+    background:white;
+    height: 80;
+}
